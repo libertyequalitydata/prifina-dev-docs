@@ -23,7 +23,6 @@ module.exports = {
 			{
 				title: 'Data Access',
 				path: '/data/',
-				collapsable: true,
 				children: [
 					'/data/aggregated/'
 				]
