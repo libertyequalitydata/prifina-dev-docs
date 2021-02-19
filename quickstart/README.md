@@ -7,7 +7,7 @@ Prifina provides a user-held data platform that allows you to build React applic
 
 To get your application published in our App Market, you will need to supply the Prifina team an archive build deployment package with the relevant <a href="https://web.dev/add-manifest/">manifest</a> file, to be reviewed by the Prifina App market team. 
 
-Your archive *must contain* a Prifina appID field in the manifest.js file. Wait to register as a developer to get an appID or contact one of our team on Slack to get ahead of the line.
+Your archive *must contain* a Prifina appID field in the manifest.js file. Wait to register as a developer to get an appID or contact one of our team on [Slack](https://join.slack.com/t/libertyequalitydata/shared_invite/zt-ddr4t974-MCzsch4FSeux8DrFQ2atbQ) to get ahead of the line.
 
 The Prifina app starter repo is [available here](https://github.com/prifina/prifina-app-starter). 
 
