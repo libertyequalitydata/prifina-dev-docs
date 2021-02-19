@@ -5,7 +5,11 @@
 
 Prifina provides a user-held data platform that allows you to build React applications that the user can install via our App Market and run them in their personal data clouds (AWS). These apps use <a href="https://reactjs.org/docs/components-and-props.html">props</a> or <a href="https://reactjs.org/docs/context.html">context providers</a> as the interface to connect with users personal data. 
 
-To get your application published in our App Market, you will need to supply the Prifina team an archive build deployment package with the relevant <a href="https://web.dev/add-manifest/">manifest</a> file, to be reviewed by the Prifina App market team.
+To get your application published in our App Market, you will need to supply the Prifina team an archive build deployment package with the relevant <a href="https://web.dev/add-manifest/">manifest</a> file, to be reviewed by the Prifina App market team. 
+
+Your archive *must contain* a Prifina appID field in the manifest.js file. Wait to register as a developer to get an appID or contact one of our team on Slack to get ahead of the line.
+
+The Prifina app starter repo is [available here](https://github.com/prifina/prifina-app-starter). 
 
 ## What Application to Build?
 
@@ -19,7 +23,7 @@ In addition to data that your application is using, you should also think about 
 
 When you have decided the application you want to build and have the data sources identified, a simple way to start building is by simply forking the relevant GitHub [library](https://github.com/prifina) and start building your own app.
 
-You can also use these open source components from our Blend Design System library in our <a href="http://alpha.blend-ui.prifina.com/">Storybook</a>, and other useful assets from our <a href="https://github.com/prifina">GitHub</a>. 
+You can also use these open source components from our Blend Design System library in our <a href="http://alpha.blend-ui.prifina.com/">Storybook</a>, and other useful assets from our <a href="https://github.com/prifina/blend-ui">GitHub</a>. 
 
 You do not need to use these assets, but they can help get you started. 
 
@@ -27,7 +31,7 @@ You do not need to use these assets, but they can help get you started.
 
 ### Data Source Details
 
-Submit the data source informaion your applications will use:
+Submit the data source information your applications will use:
 
 - Data source URL, description
 - Data Model and API Documentation URL if available
@@ -62,6 +66,7 @@ Here are some things to consider when thinking about data in your app:
 
 The App Market has the following fields that need to be filled out to describe the application and its various functionality:
 
+- AppID (register as dev to claim - or get in touch on Slack)
 - App name
 - Description [max 250 characters]
 - Key Features 
@@ -86,6 +91,9 @@ To get in touch with us you can join our [Slack](https://join.slack.com/t/prifin
 ## FAQ
 **Q**: Do you support other JavaScript apps than React?  
 **A**: We will gradually expand our support also for other JavaScript libraries and frameworks. 
+
+**Q**: I can't register as a developer. How do I get my appID?
+**A**: Get in touch with us on [Slack](https://join.slack.com/t/libertyequalitydata/shared_invite/zt-ddr4t974-MCzsch4FSeux8DrFQ2atbQ) to skip the line.
 
 
 

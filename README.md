@@ -4,9 +4,8 @@ Prifina is a commercial open source data technology company headquartered in San
 
 Prifina provides a software platform, that is;
 - **Data-driven** – Prifina's platform can provide you with the data to deliver dynamic and highly personalized content to your users.
-- **Serverless** – Apps on Prifina can run their backends directly on a user's Personal  Cloud, you can spend less time maintaining servers and more time building exceptional experiences for your users  
+- **Serverless** – Apps on Prifina run their backends directly on the Prifina framework, you can spend less time maintaining servers and more time building exceptional experiences for your users  
 - **CCPA/ GDPR compliant** – Using Prifina means your users own their data and provide you with access. This model is inherently compliant with GDPR and CCPA, and many others
-  
   
 # About Prifina
 ## Our Core Concept
