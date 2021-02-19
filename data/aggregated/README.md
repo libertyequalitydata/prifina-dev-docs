@@ -70,7 +70,7 @@ query {
 
 ### Object Types
 #### type: Address
-Based on [xNAL standard], an address in generalized internationa format. Fields here are deliberately vague to account for the wide variety of conventions in use internationally.
+Based on [xNAL standard], an address in generalized international format. Fields here are deliberately vague to account for the wide variety of conventions in use internationally.
 
 #### type: PageArgs
 Pagination control arguments to be passed to a Connection object.
@@ -96,7 +96,7 @@ Profile-level information on a user.
 - `middleName: String` Middle name.
 - `dob: ISODateTime` Date/time of birth.
 - `gender: String` Gender.
-- `orientation: String` Sexual oritentation.
+- `orientation: String` Sexual orientation.
 - `residences: [ResidenceConnection]` Residences, current and former, on record. See: [`type: Residence`](#type-residence).
 
 #### type: Residence

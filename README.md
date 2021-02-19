@@ -9,15 +9,15 @@ Prifina provides a software platform, that is;
   
 # About Prifina
 ## Our Core Concept
-Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers. Data always stays under the users full control and data processing stays close to the user, and may limit the overall data liability.
+Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers. Data always stays under the user's full control and data processing stays close to the user, and may limit the overall data liability.
 ## How it Works
 ### User-Held Data
-Prifina users have the ability to bring their personal data into their own personal cloud, then install applications to their Personal Data Cloud and Sandbox. This Personal Cloud is an individual user AWS instance (expanded to other cloud infrastructures depending on the context), as well as open source software and tools allowing easy importing, uploading, managing of personal data and the data itself that that software allows you to bring into your Personal Data Cloud. This data is organized into objects in the local environment, and further productized and produtizable into different profiles, segments etc that support different use cases and the data is usable in the “Local” Cloud Environment.
+Prifina users have the ability to bring their personal data into their own personal cloud, then install applications to their Personal Data Cloud and Sandbox. This Personal Cloud is an individual user AWS instance (expanded to other cloud infrastructures depending on the context), as well as open source software and tools allowing easy importing, uploading, managing of personal data and the data itself that that software allows you to bring into your Personal Data Cloud. This data is organized into objects in the local environment, and further productized and productizable into different profiles, segments, etc., that support different use cases and the data is usable in the “Local” Cloud Environment.
 
 ## Prifina Apps
 Prifina's goal is to provide a platform where users have the best and fullest copy of their personal data and are empowered through having absolute control over their data to gain personal value. Developers are empowered to create a new kind of data-driven experience for users, while respecting their data privacy.
 
-Prifina develops and sponsors it's own applications to the marketplace, and supports, sponsors and co-creates new applications with third party developers. Third party developers may also [build their](http://docs.prifina.com/quickstart/#introduction) own applications and submit them to the Prifina App Market. 
+Prifina develops and sponsors its own applications to the marketplace, and supports, sponsors and co-creates new applications with third party developers. Third party developers may also [build their own applications](http://docs.prifina.com/quickstart/#introduction) and submit them to the Prifina App Market. 
 
 **Prifina apps can be classified into one of [three categories](https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590):**
 
@@ -28,6 +28,6 @@ Like data widgets, local data apps run in the user's Personal Cloud and do not c
 ### Profile Apps
 Profile apps can exist outside of Prifina's platform and access data from Prifina users' profile cards. In a profile app, a user can choose their desired level of anonymity while still providing the application developer with enough data to provide enhanced and personalized content.
 ### Mobile Apps
-Native mobile applications can be built similar to Local Data Apps, with the help of Prifina's Native Mobile App that controls and manages access between the native mobile application and the personal data cloud. Mobile apps and the protocol for mobile applications is still heavily in development.
+Native mobile applications can be built similar to Local Data Apps, with the help of Prifina's Native Mobile App that controls and manages access between the native mobile application and the personal data cloud. Mobile apps and the protocol for mobile applications are still heavily in development.
 
 

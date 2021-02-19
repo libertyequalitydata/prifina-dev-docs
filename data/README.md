@@ -1,6 +1,6 @@
 # User Data Access
 
-At Prifina's core is the goal of improving the quality of data-driven user experiences on the web. A key aspect of this is providing accessible user data to developers, while maintaining the user's ultimate control of their own privacy and data.Prifina provides interfaces allowing developers to leverage user data, creating the potential for a new breed of data-driven applications and services.   
+At Prifina's core is the goal of improving the quality of data-driven user experiences on the web. A key aspect of this is providing accessible user data to developers, while maintaining the user's ultimate control of their own privacy and data. Prifina provides interfaces allowing developers to leverage user data, creating the potential for a new breed of data-driven applications and services.   
 
 Current interfaces include:  
 
