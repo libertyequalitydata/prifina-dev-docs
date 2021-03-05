@@ -71,6 +71,8 @@ The App Market has the following fields that need to be filled out to describe t
 - Description [max 250 characters]
 - Key Features 
 - Application Screenshot Images [SVG, GIF, JPEG under 5mb]
+- If applicable, Widget Static image (displayed when widget is moved)
+- If applicable, Widget Settings list and data input 
 - App Publisher name 
 - Type of Application, Local Data App, Widget App or Profile Data App.
 - Application Category
@@ -92,7 +94,7 @@ To get in touch with us you can join our [Slack](https://join.slack.com/t/prifin
 **Q**: Do you support other JavaScript apps than React?  
 **A**: We will gradually expand our support also for other JavaScript libraries and frameworks. 
 
-**Q**: I can't register as a developer. How do I get my appID?  
+**Q**: I can't register as a developer. How do I get my appID?<br>
 **A**: Get in touch with us on [Slack](https://join.slack.com/t/libertyequalitydata/shared_invite/zt-ddr4t974-MCzsch4FSeux8DrFQ2atbQ).
 
 
